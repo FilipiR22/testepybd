@@ -1,0 +1,757 @@
+{
+    "Matemática": [
+        {
+            "assunto": "Geometria Plana",
+            "conteudo": [
+                "Áreas de figuras planas",
+                "Semelhança de triângulos",
+                "Trigonometria no triângulo retângulo"
+            ],
+            "horas": 19
+        },
+        {
+            "assunto": "Geometria Espacial",
+            "conteudo": [
+                "Volumes de sólidos geométricos",
+                "Relações métricas em sólidos geométricos"
+            ],
+            "horas": 16
+        },
+        {
+            "assunto": "Geometria Analítica",
+            "conteudo": [
+                "Equação da reta",
+                "Posição relativa entre retas",
+                "Equação da circunferência"
+            ],
+            "horas": 17
+        },
+        {
+            "assunto": "Funções",
+            "conteudo": [
+                "Funções do 1º e 2º grau",
+                "Funções exponenciais e logarítmicas",
+                "Interpretação de gráficos de funções"
+            ],
+            "horas": 22
+        },
+        {
+            "assunto": "Probabilidade e Estatística",
+            "conteudo": [
+                "Cálculo de probabilidades",
+                "Medidas de tendência central (média, moda, mediana)",
+                "Desvio padrão"
+            ],
+            "horas": 14
+        },
+        {
+            "assunto": "Porcentagem e Juros",
+            "conteudo": [
+                "Cálculo de porcentagens",
+                "Juros simples e compostos"
+            ],
+            "horas": 11
+        },
+        {
+            "assunto": "Análise Combinatória",
+            "conteudo": [
+                "Princípio fundamental da contagem",
+                "Combinações e permutações"
+            ],
+            "horas": 14
+        }
+    ],
+    "Português": [
+        {
+            "assunto": "Interpretação de Texto",
+            "conteudo": [
+                "- Tipos de texto e gêneros textuais",
+                "- Identificação da ideia central e informações específicas",
+                "- Inferência e interpretação",
+                "- Recursos linguísticos e estilísticos",
+                "- Intertextualidade"
+            ],
+            "horas": 60
+        },
+        {
+            "assunto": "Gramática",
+            "conteudo": [
+                "- Classes de palavras e suas funções",
+                "- Concordância verbal e nominal",
+                "- Regência verbal e nominal",
+                "- Crase",
+                "- Pontuação"
+            ],
+            "horas": 45
+        },
+        {
+            "assunto": "Literatura",
+            "conteudo": [
+                "- Movimentos literários brasileiros",
+                "- Obras e autores mais importantes",
+                "- Figuras de linguagem",
+                "- Contexto histórico e social da literatura"
+            ],
+            "horas": 48
+        },
+        {
+            "assunto": "Redação",
+            "conteudo": [
+                "- Estrutura do texto dissertativo-argumentativo",
+                "- Elaboração de tese e argumentos",
+                "- Coesão e coerência textual",
+                "- Norma culta da língua portuguesa"
+            ],
+            "horas": 48
+        },
+        {
+            "assunto": "Variação Linguística",
+            "conteudo": [
+                "- Tipos de variação linguística",
+                "- Adequação linguística às diferentes situações comunicativas",
+                "- Preconceito linguístico"
+            ],
+            "horas": 12
+        }
+    ],
+    "Física": [
+        {
+            "assunto": "Mecânica",
+            "conteudo": [
+                "- Cinemática: movimento uniforme, movimento uniformemente variado, lançamento vertical, gráficos de movimento",
+                "- Dinâmica: leis de Newton, força de atrito, trabalho e energia, impulso e quantidade de movimento, conservação de energia",
+                "- Hidrostática: pressão, empuxo, densidade",
+                "- Gravitação: lei da gravitação universal, órbitas planetárias"
+            ],
+            "horas": 60
+        },
+        {
+            "assunto": "Termologia",
+            "conteudo": [
+                "- Calorimetria: calor específico, capacidade térmica, calor latente, trocas de calor, propagação de calor",
+                "- Termodinâmica: leis da termodinâmica, máquinas térmicas, rendimento"
+            ],
+            "horas": 24
+        },
+        {
+            "assunto": "Óptica",
+            "conteudo": [
+                "- Reflexão e refração da luz: espelhos planos e esféricos, lentes convergentes e divergentes, formação de imagens",
+                "- Óptica da visão: olho humano, defeitos da visão e correção"
+            ],
+            "horas": 16
+        },
+        {
+            "assunto": "Ondulatória",
+            "conteudo": [
+                "- Ondas: tipos de ondas, características das ondas, fenômenos ondulatórios (reflexão, refração, difração, interferência, polarização)",
+                "- Acústica: som, velocidade do som, intensidade sonora, timbre, altura"
+            ],
+            "horas": 16
+        },
+        {
+            "assunto": "Eletromagnetismo",
+            "conteudo": [
+                "- Eletrostática: carga elétrica, lei de Coulomb, campo elétrico, potencial elétrico",
+                "- Eletrodinâmica: corrente elétrica, resistência elétrica, lei de Ohm, circuitos elétricos, potência elétrica",
+                "- Magnetismo: campo magnético, força magnética, indução eletromagnética"
+            ],
+            "horas": 48
+        }
+    ],
+    "Geografia": [
+        {
+            "assunto": "Geografia Física",
+            "conteudo": [
+                "- Relevo: tipos de relevo, agentes formadores e modeladores do relevo, estrutura geológica",
+                "- Clima: elementos e fatores climáticos, tipos de clima, fenômenos climáticos",
+                "- Vegetação: biomas terrestres, características e distribuição da vegetação",
+                "- Hidrografia: bacias hidrográficas, oceanos, águas subterrâneas",
+                "- Solos: tipos de solo, formação e degradação dos solos"
+            ],
+            "horas": 60
+        },
+        {
+            "assunto": "Geografia Humana",
+            "conteudo": [
+                "- População: crescimento demográfico, teorias demográficas, estrutura da população, migrações",
+                "- Urbanização: processo de urbanização, problemas urbanos, hierarquia urbana",
+                "- Globalização: características, impactos da globalização, blocos econômicos",
+                "- Geopolitica: conflitos geopolíticos, organizações internacionais, ordem mundial"
+            ],
+            "horas": 48
+        },
+        {
+            "assunto": "Geografia do Brasil",
+            "conteudo": [
+                "- Espaço geográfico brasileiro: formação, regionalização, características gerais",
+                "- Aspectos físicos: clima, relevo, vegetação, hidrografia",
+                "- População brasileira: crescimento, distribuição, estrutura, migrações",
+                "- Economia brasileira: setores da economia, atividades industriais, agropecuária, comércio exterior",
+                "- Questões sociais: desigualdade social, pobreza, educação, saúde"
+            ],
+            "horas": 75
+        },
+        {
+            "assunto": "Geografia Regional",
+            "conteudo": [
+                "- Continentes e países: características gerais, aspectos físicos e humanos",
+                "- Regiões do mundo: regionalização mundial, características das principais regiões"
+            ],
+            "horas": 16
+        },
+        {
+            "assunto": "Meio Ambiente",
+            "conteudo": [
+                "- Problemas ambientais: poluição, desmatamento, efeito estufa, mudanças climáticas",
+                "- Desenvolvimento sustentável: conceito, Agenda 2030, práticas sustentáveis",
+                "- Biodiversidade: importância, hotspots, conservação da biodiversidade"
+            ],
+            "horas": 24
+        }
+    ],
+    "História": [
+        {
+            "assunto": "História Geral",
+            "conteudo": [
+                "- Primeira Guerra Mundial: causas, consequências, impactos",
+                "- Segunda Guerra Mundial: causas, consequências, impactos",
+                "- Guerra Fria: contexto, características, desdobramentos",
+                "- Revolução Industrial: contexto, fases, consequências sociais e econômicas",
+                "- Revolução Francesa: causas, desenvolvimento, consequências",
+                "- Iluminismo: ideias, principais pensadores, influência"
+            ],
+            "horas": 90
+        },
+        {
+            "assunto": "História do Brasil",
+            "conteudo": [
+                "- Período Colonial: economia, sociedade, cultura, movimentos nativistas",
+                "- Império: processo de independência, Primeiro Reinado, Segundo Reinado, crise do Império",
+                "- República: República Velha, Era Vargas, República Democrática, Ditadura Militar, redemocratização",
+                "- Movimentos sociais: Canudos, Contestado, Revolta da Vacina",
+                "- Cultura brasileira: movimentos artísticos, literários e culturais"
+            ],
+            "horas": 90
+        },
+        {
+            "assunto": "História da América",
+            "conteudo": [
+                "- Civilizações pré-colombianas: Maias, Astecas, Incas",
+                "- Colonização da América: colonização espanhola, portuguesa, inglesa",
+                "- Processos de independência na América",
+                "- América Latina no século XX: revoluções, ditaduras, movimentos sociais"
+            ],
+            "horas": 32
+        },
+        {
+            "assunto": "Idade Antiga",
+            "conteudo": [
+                "- Civilizações antigas: Mesopotâmia, Egito, Grécia, Roma",
+                "- Cultura e sociedade na antiguidade: religião, política, economia, arte",
+                "- Grécia Antiga: democracia ateniense, filosofia, cultura helenística",
+                "- Roma Antiga: República Romana, Império Romano, legado romano"
+            ],
+            "horas": 32
+        },
+        {
+            "assunto": "Idade Média",
+            "conteudo": [
+                "- Feudalismo: características, sociedade, economia, cultura",
+                "- Igreja Católica na Idade Média: poder político e religioso, crises e reformas",
+                "- Cruzadas: contexto, causas, consequências",
+                "- Renascimento comercial e urbano",
+                "- Baixa Idade Média: crises e transformações"
+            ],
+            "horas": 40
+        },
+        {
+            "assunto": "Idade Moderna",
+            "conteudo": [
+                "- Expansão marítima europeia: grandes navegações, descobrimentos",
+                "- Renascimento cultural: características, principais artistas e obras",
+                "- Reforma Protestante: causas, consequências, principais reformadores",
+                "- Absolutismo monárquico: características, principais monarcas",
+                "- Revoluções Científicas: novas descobertas e teorias",
+                "- Iluminismo: ideias, principais pensadores, influência"
+            ],
+            "horas": 54
+        },
+        {
+            "assunto": "Idade Contemporânea",
+            "conteudo": [
+                "- Revoluções liberais: Revolução Francesa, Independência dos EUA",
+                "- Revolução Industrial: impactos sociais, econômicos e políticos",
+                "- Imperialismo: neocolonialismo, partilha da África e da Ásia",
+                "- Primeira Guerra Mundial: causas, consequências, impactos",
+                "- Segunda Guerra Mundial: causas, consequências, impactos",
+                "- Guerra Fria: contexto, características, desdobramentos",
+                "- Mundo globalizado: características, desafios, novas ordens mundiais"
+            ],
+            "horas": 90
+        }
+    ],
+    "Química": [
+        {
+            "assunto": "Matéria e suas propriedades",
+            "conteudo": [
+                "- Estrutura atômica: prótons, nêutrons, elétrons, número atômico, número de massa, íons, isótopos",
+                "- Modelos atômicos: Dalton, Thomson, Rutherford, Bohr",
+                "- Distribuição eletrônica: níveis e subníveis de energia, diagrama de Pauling",
+                "- Propriedades periódicas: raio atômico, eletronegatividade, eletropositividade, energia de ionização",
+                "- Ligações químicas: iônica, covalente, metálica",
+                "- Geometria molecular: polaridade de moléculas",
+                "- Forças intermoleculares: dipolo-dipolo, ligação de hidrogênio, forças de London",
+                "- Estados físicos da matéria: sólido, líquido, gasoso, mudanças de estado físico"
+            ],
+            "horas": 96
+        },
+        {
+            "assunto": "Reações químicas",
+            "conteudo": [
+                "- Tipos de reações químicas: síntese, decomposição, simples troca, dupla troca",
+                "- Balanceamento de equações químicas",
+                "- Leis ponderais: Lavoisier, Proust",
+                "- Estequiometria: cálculos estequiométricos, reagente limitante, rendimento",
+                "- Reações de oxirredução: número de oxidação, agente oxidante, agente redutor"
+            ],
+            "horas": 45
+        },
+        {
+            "assunto": "Soluções",
+            "conteudo": [
+                "- Tipos de soluções: saturada, insaturada, supersaturada",
+                "- Concentração de soluções: molaridade, molalidade, porcentagem em massa",
+                "- Diluição de soluções",
+                "- Misturas: homogêneas e heterogêneas",
+                "- Separação de misturas: filtração, decantação, destilação, cromatografia"
+            ],
+            "horas": 40
+        },
+        {
+            "assunto": "Química Orgânica",
+            "conteudo": [
+                "- Funções orgânicas: hidrocarbonetos, álcoois, aldeídos, cetonas, ácidos carboxílicos, ésteres, aminas, amidas",
+                "- Nomenclatura de compostos orgânicos",
+                "- Isomeria: isomeria plana, isomeria espacial",
+                "- Reações orgânicas: adição, substituição, eliminação",
+                "- Polímeros: tipos de polímeros, propriedades"
+            ],
+            "horas": 45
+        },
+        {
+            "assunto": "Termoquímica",
+            "conteudo": [
+                "- Reações endotérmicas e exotérmicas",
+                "- Entalpia: variação de entalpia",
+                "- Lei de Hess",
+                "- Entropia",
+                "- Energia livre de Gibbs"
+            ],
+            "horas": 20
+        },
+        {
+            "assunto": "Equilíbrio químico",
+            "conteudo": [
+                "- Reações reversíveis",
+                "- Constante de equilíbrio",
+                "- Princípio de Le Chatelier",
+                "- Fatores que afetam o equilíbrio químico: concentração, temperatura, pressão",
+                "- Equilíbrio iônico: ácidos e bases, pH, pOH, indicadores ácido-base",
+                "- Hidrólise salina",
+                "- Soluções tampão"
+            ],
+            "horas": 42
+        },
+        {
+            "assunto": "Eletroquímica",
+            "conteudo": [
+                "- Pilhas: funcionamento, tipos de pilhas, equação da pilha",
+                "- Eletrólise: eletrólise ígnea, eletrólise aquosa",
+                "- Leis de Faraday",
+                "- Aplicações da eletroquímica: corrosão, galvanoplastia"
+            ],
+            "horas": 32
+        }
+    ],
+    "Redação": [
+        {
+            "assunto": "Compreensão e interpretação de textos",
+            "conteudo": [
+                "- Identificar o tema central e os pontos principais do texto",
+                "- Analisar as diferentes linguagens e recursos utilizados no texto",
+                "- Interpretar informações explícitas e implícitas",
+                "- Reconhecer os diferentes gêneros textuais e suas características"
+            ],
+            "horas": 48
+        },
+        {
+            "assunto": "Domínio da norma culta da língua portuguesa",
+            "conteudo": [
+                "- Ortografia e acentuação",
+                "- Pontuação",
+                "- Concordância verbal e nominal",
+                "- Regência verbal e nominal",
+                "- Crase",
+                "- Colocação pronominal",
+                "- Vocabulário preciso e adequado",
+                "- Variação linguística"
+            ],
+            "horas": 72
+        },
+        {
+            "assunto": "Construção da argumentação",
+            "conteudo": [
+                "- Construir uma tese clara e consistente",
+                "- Elaborar argumentos relevantes e embasados em evidências",
+                "- Estabelecer relações de causa e consequência, comparação, exemplificação",
+                "- Utilizar diferentes tipos de argumento: de autoridade, de prova concreta, de princípio",
+                "- Refutar contra-argumentos"
+            ],
+            "horas": 60
+        },
+        {
+            "assunto": "Elaboração de propostas de intervenção",
+            "conteudo": [
+                "- Elaborar propostas de intervenção detalhadas e viáveis",
+                "- Respeitar os direitos humanos e os valores sociais",
+                "- Apresentar soluções que considerem os diferentes agentes sociais",
+                "- Indicar os meios e os recursos necessários para a implementação das propostas"
+            ],
+            "horas": 48
+        },
+        {
+            "assunto": "Coesão e coerência textuais",
+            "conteudo": [
+                "- Organizar o texto de forma lógica e coesa",
+                "- Utilizar conectores e elementos de referência para garantir a coesão textual",
+                "- Construir parágrafos bem estruturados e com tópicos frasais claros",
+                "- Manter a coerência entre as ideias apresentadas"
+            ],
+            "horas": 48
+        }
+    ],
+    "Biologia": [
+        {
+            "assunto": "Citologia",
+            "conteudo": [
+                "- Célula: estrutura e funções das organelas celulares",
+                "- Membrana plasmática: estrutura e transporte celular",
+                "- Processos energéticos: fotossíntese, respiração celular, fermentação",
+                "- Moléculas orgânicas: carboidratos, lipídios, proteínas, ácidos nucleicos",
+                "- Divisão celular: mitose, meiose"
+            ],
+            "horas": 60
+        },
+        {
+            "assunto": "Ecologia",
+            "conteudo": [
+                "- Níveis de organização: população, comunidade, ecossistema, biosfera",
+                "- Relações ecológicas: intraespecíficas e interespecíficas",
+                "- Cadeias e teias alimentares",
+                "- Ciclos biogeoquímicos: carbono, nitrogênio, água",
+                "- Biomas: características e distribuição dos principais biomas",
+                "- Impactos ambientais: desmatamento, poluição, efeito estufa",
+                "- Sustentabilidade: práticas e ações para a conservação ambiental"
+            ],
+            "horas": 105
+        },
+        {
+            "assunto": "Genética",
+            "conteudo": [
+                "- Leis de Mendel: dominância, segregação,assortimento independente",
+                "- Tipos de herança: autossômica, ligada ao sexo",
+                "- Doenças genéticas",
+                "- Mutações",
+                "- Biotecnologia: DNA recombinante, clonagem, transgênicos"
+            ],
+            "horas": 45
+        },
+        {
+            "assunto": "Evolução",
+            "conteudo": [
+                "- Teorias evolutivas: Lamarckismo, Darwinismo",
+                "- Mecanismos de evolução: seleção natural, mutação, deriva genética",
+                "- Evidências da evolução: fósseis, anatomia comparada, embriologia",
+                "- Evolução humana: principais ancestrais e características"
+            ],
+            "horas": 32
+        },
+        {
+            "assunto": "Fisiologia Humana",
+            "conteudo": [
+                "- Sistemas do corpo humano: digestório, respiratório, circulatório, excretor, nervoso, endócrino, reprodutor",
+                "- Doenças e saúde humana: doenças infecciosas, doenças crônicas, saúde pública",
+                "- Nutrição e hábitos saudáveis"
+            ],
+            "horas": 48
+        },
+        {
+            "assunto": "Botânica",
+            "conteudo": [
+                "- Grupos vegetais: briófitas, pteridófitas, gimnospermas, angiospermas",
+                "- Morfologia vegetal: raiz, caule, folha, flor, fruto, semente",
+                "- Fisiologia vegetal: transporte de seiva, hormônios vegetais",
+                "- Reprodução vegetal: reprodução sexuada e assexuada"
+            ],
+            "horas": 32
+        }
+    ],
+    "SociologiaFilosofia": [
+        {
+            "assunto": "Filosofia Antiga",
+            "conteudo": [
+                "- Período Pré-Socrático: Tales de Mileto, Anaximandro, Anaxímenes, Pitágoras, Heráclito, Parmênides, Empédocles, Anaxágoras, Demócrito.",
+                "- Período Socrático: Sócrates, Platão.",
+                "- Período Helenístico: Aristóteles, Epicurismo, Estoicismo, Ceticismo."
+            ],
+            "horas": 12
+        },
+        {
+            "assunto": "Filosofia Medieval",
+            "conteudo": [
+                "- Patrística: Santo Agostinho.",
+                "- Escolástica: Santo Anselmo, Tomás de Aquino."
+            ],
+            "horas": 6
+        },
+        {
+            "assunto": "Filosofia Moderna",
+            "conteudo": [
+                "- Renascimento: Maquiavel.",
+                "- Racionalismo: Descartes, Spinoza, Leibniz.",
+                "- Empirismo: Locke, Berkeley, Hume.",
+                "- Iluminismo: Kant."
+            ],
+            "horas": 14
+        },
+        {
+            "assunto": "Filosofia Contemporânea",
+            "conteudo": [
+                "- Idealismo Alemão: Hegel.",
+                "- Marxismo: Marx, Engels.",
+                "- Existencialismo: Kierkegaard, Nietzsche, Sartre.",
+                "- Filosofia da Linguagem: Wittgenstein.",
+                "- Escola de Frankfurt: Adorno, Horkheimer, Marcuse, Habermas."
+            ],
+            "horas": 22
+        },
+        {
+            "assunto": "Sociologia Clássica",
+            "conteudo": [
+                "- Émile Durkheim: Fato social, Coesão social, Anomia.",
+                "- Max Weber: Ação social, Tipos ideais, Burocracia, Ética protestante.",
+                "- Karl Marx: Materialismo histórico, Luta de classes, Alienação."
+            ],
+            "horas": 17
+        },
+        {
+            "assunto": "Sociologia Contemporânea",
+            "conteudo": [
+                "- Teoria da Modernização.",
+                "- Teoria da Dependência.",
+                "- Pós-Estruturalismo: Foucault, Derrida.",
+                "- Sociologia no Brasil: Gilberto Freyre, Sérgio Buarque de Holanda, Florestan Fernandes."
+            ],
+            "horas": 17
+        },
+        {
+            "assunto": "Temas Contemporâneos",
+            "conteudo": [
+                "- Globalização.",
+                "- Desigualdade social.",
+                "- Meio ambiente.",
+                "- Cultura e Indústria Cultural.",
+                "- Movimentos sociais.",
+                "- Tecnologia e redes sociais."
+            ],
+            "horas": 24
+        }
+    ],
+    "Artes": [
+        {
+            "assunto": "Arte na Antiguidade",
+            "conteudo": [
+                "- Arte Egípcia: arquitetura monumental, pintura e escultura.",
+                "- Arte Grega: arquitetura (ordens dórica, jônica e coríntia), escultura (períodos arcaico, clássico e helenístico), teatro.",
+                "- Arte Romana: arquitetura (coliseu, aquedutos, termas), escultura (retratos), pintura (afrescos)."
+            ],
+            "horas": 11
+        },
+        {
+            "assunto": "Arte Medieval",
+            "conteudo": [
+                "- Arte Bizantina: mosaicos, arquitetura (igrejas de Santa Sofia e São Basílio).",
+                "- Arte Românica: arquitetura (igrejas e mosteiros), escultura (portais e capitéis), pintura (afrescos).",
+                "- Arte Gótica: arquitetura (catedrais), escultura (realismo), pintura (vitrais)."
+            ],
+            "horas": 11
+        },
+        {
+            "assunto": "Renascimento e Maneirismo",
+            "conteudo": [
+                "- Renascimento Italiano: arquitetura (Brunelleschi), escultura (Donatello, Michelangelo), pintura (Leonardo da Vinci, Rafael, Ticiano).",
+                "- Maneirismo: características, principais artistas (Pontormo, Parmigianino, El Greco)."
+            ],
+            "horas": 8
+        },
+        {
+            "assunto": "Barroco e Rococó",
+            "conteudo": [
+                "- Barroco Italiano: arquitetura (Bernini), escultura (Bernini), pintura (Caravaggio).",
+                "- Barroco Flamengo: pintura (Rubens).",
+                "- Barroco Espanhol: pintura (Velázquez).",
+                "- Rococó: características, principais artistas (Fragonard, Boucher)."
+            ],
+            "horas": 12
+        },
+        {
+            "assunto": "Neoclassicismo e Romantismo",
+            "conteudo": [
+                "- Neoclassicismo: características, principais artistas (David, Ingres).",
+                "- Romantismo: características, principais artistas (Goya, Delacroix, Turner)."
+            ],
+            "horas": 6
+        },
+        {
+            "assunto": "Realismo e Impressionismo",
+            "conteudo": [
+                "- Realismo: características, principais artistas (Courbet, Millet).",
+                "- Impressionismo: características, principais artistas (Monet, Renoir, Degas).",
+                "- Pós-Impressionismo: características, principais artistas (Cézanne, Van Gogh, Gauguin)."
+            ],
+            "horas": 12
+        },
+        {
+            "assunto": "Vanguardas Europeias",
+            "conteudo": [
+                "- Expressionismo: características, principais artistas (Munch, Kirchner).",
+                "- Cubismo: características, principais artistas (Picasso, Braque).",
+                "- Futurismo: características, principais artistas (Marinetti, Boccioni).",
+                "- Dadaísmo: características, principais artistas (Tzara, Arp).",
+                "- Surrealismo: características, principais artistas (Dalí, Magritte)."
+            ],
+            "horas": 16
+        },
+        {
+            "assunto": "Arte Moderna no Brasil",
+            "conteudo": [
+                "- Semana de Arte Moderna: contexto, principais artistas (Anita Malfatti, Tarsila do Amaral, Oswald de Andrade).",
+                "- Modernismo: fases, características, principais artistas."
+            ],
+            "horas": 9
+        },
+        {
+            "assunto": "Arte Contemporânea",
+            "conteudo": [
+                "- Arte Pop: características, principais artistas (Andy Warhol, Roy Lichtenstein).",
+                "- Arte Conceitual: características, principais artistas (Marcel Duchamp, Joseph Beuys).",
+                "- Outras tendências da arte contemporânea: instalação, performance, videoarte."
+            ],
+            "horas": 11
+        }
+    ],
+    "Espanhol": [
+        {
+            "assunto": "Comprensión e interpretación de textos",
+            "conteudo": [
+                "- Tipos de textos: literarios, no literarios, periodísticos, etc.",
+                "- Géneros textuales: cuento, novela, poesía, ensayo, artículo de opinión, noticia, etc.",
+                "- Estrategias de lectura: identificación de la idea principal, inferencias, interpretación de figuras retóricas, etc.",
+                "- Recursos lingüísticos y discursivos: cohesión, coherencia, conectores, etc."
+            ],
+            "horas": 16
+        },
+        {
+            "assunto": "Gramática",
+            "conteudo": [
+                "- Morfología: clases de palabras (sustantivos, adjetivos, verbos, etc.), formación de palabras.",
+                "- Sintaxis: estructura de la oración (sujeto, predicado, complementos), tipos de oraciones.",
+                "- Ortografía: reglas de acentuación, uso de letras mayúsculas y minúsculas, signos de puntuación.",
+                "- Normativa: concordancia verbal y nominal, regencia verbal y nominal, uso de preposiciones."
+            ],
+            "horas": 22
+        },
+        {
+            "assunto": "Literatura",
+            "conteudo": [
+                "- Literatura Española: autores y obras representativas de las diferentes épocas (Edad Media, Renacimiento, Barroco, Romanticismo, Realismo, Modernismo, Generación del 98, etc.).",
+                "- Literatura Hispanoamericana: autores y obras representativas de las diferentes épocas (Literatura Precolombina, Colonia, Independencia, siglo XIX, siglo XX, etc.).",
+                "- Figuras literarias: metáfora, símil, antítesis, hipérbole, ironía, etc.",
+                "- Contexto histórico y social de las obras literarias."
+            ],
+            "horas": 24
+        },
+        {
+            "assunto": "Variación lingüística",
+            "conteudo": [
+                "- Dialectos del español: características de los diferentes dialectos de España e Hispanoamérica.",
+                "- Registros lingüísticos: uso formal e informal de la lengua.",
+                "- Sociolingüística: relación entre lengua y sociedad."
+            ],
+            "horas": 9
+        }
+    ],
+    "Edu. Física": [
+        {
+            "assunto": "Conhecimentos Gerais",
+            "conteudo": [
+                "- História da Educação Física: Grécia Antiga, Idade Média, Renascimento, etc.",
+                "- O desenvolvimento da Educação Física no Brasil: Colônia, Império, República.",
+                "- As diferentes abordagens pedagógicas da Educação Física: tecnicista, construtivista, etc.",
+                "- A Educação Física e a saúde: benefícios da atividade física, prevenção de doenças, etc.",
+                "- A Educação Física e a cultura: manifestações culturais do movimento (dança, jogos, lutas, etc.)."
+            ],
+            "horas": 20
+        },
+        {
+            "assunto": "Modalidades Esportivas",
+            "conteudo": [
+                "- Esportes coletivos: futebol, voleibol, basquetebol, handebol, etc.",
+                "- Esportes individuais: atletismo, natação, ginástica, lutas, etc.",
+                "- Esportes de aventura: rapel, escalada, rafting, etc.",
+                "- Esportes paralímpicos: modalidades, adaptações, inclusão."
+            ],
+            "horas": 19
+        },
+        {
+            "assunto": "Aptidão Física e Saúde",
+            "conteudo": [
+                "- Componentes da aptidão física: força, resistência, flexibilidade, agilidade, coordenação.",
+                "- Métodos de avaliação da aptidão física: testes de esforço, IMC, etc.",
+                "- Princípios do treinamento físico: sobrecarga, progressão, especificidade, etc.",
+                "- Riscos e cuidados na prática de atividades físicas."
+            ],
+            "horas": 16
+        },
+        {
+            "assunto": "Lazer e Tempo Livre",
+            "conteudo": [
+                "- Conceito de lazer e tempo livre.",
+                "- As diferentes formas de lazer: jogos, brincadeiras, esportes, atividades culturais, etc.",
+                "- O lazer e a qualidade de vida."
+            ],
+            "horas": 8
+        },
+        {
+            "assunto": "Dança",
+            "conteudo": [
+                "- História da dança: danças primitivas, danças antigas, danças medievais, danças renascentistas, danças barrocas, danças clássicas, danças modernas, danças contemporâneas.",
+                "- Tipos de dança: dança de salão, dança folclórica, dança urbana, dança contemporânea, etc.",
+                "- Elementos da dança: ritmo, movimento, espaço, coreografia.",
+                "- A dança como manifestação cultural e artística."
+            ],
+            "horas": 16
+        },
+        {
+            "assunto": "Lutas",
+            "conteudo": [
+                "- História das lutas: lutas antigas, lutas medievais, lutas modernas.",
+                "- Tipos de luta: judô, karatê, taekwondo, jiu-jitsu, boxe, capoeira, MMA, etc.",
+                "- Fundamentos das lutas: golpes, defesas, técnicas de imobilização, etc.",
+                "- As lutas como esporte e como forma de defesa pessoal."
+            ],
+            "horas": 17
+        }
+    ]
+}
